@@ -1,0 +1,12 @@
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\bin\Debug\net7.0\Bol.deps.json
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\bin\Debug\net7.0\Bol.dll
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\bin\Debug\net7.0\Bol.pdb
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.csproj.AssemblyReference.cache
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.AssemblyInfoInputs.cache
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.AssemblyInfo.cs
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.dll
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\refint\Bol.dll
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\Bol.pdb
+C:\Users\Nikhil Solankhi\Documents\Dotnet\day2\Bol\obj\Debug\net7.0\ref\Bol.dll
